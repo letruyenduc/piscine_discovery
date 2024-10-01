@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+  }
+
+  table {
+  border: 1px solid #ccc;
+  border-collapse: collapse;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  table-layout: fixed;
+  }
+
+  td, th {
+    border: 1px solid rgb(190,190,190);
+    padding: 50px;
+    overflow: hidden;
+    text-align: center;
+  }
+
+  caption {
+    padding: 20px;
+  }

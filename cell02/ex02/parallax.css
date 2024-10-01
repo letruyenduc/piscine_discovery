@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+    height: 3000px;
+}
+
+
+.parallax1 {
+
+    background-image: url(galaxy.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50%;
+}
+
+.parallax2 {
+    background-image: url(nebula.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 33%;
+    margin-top: 20%;
+}
+
+.txt {
+    color: white;
+    margin-top: 0%;
+    text-align: center;
+    padding: 30%;
+}
